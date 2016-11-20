@@ -2,7 +2,6 @@
 tags: [salado, sopa, caliente]
 platos: 8
 tiempo:
-  🔪🍽: 
   prep: 25m
   cook: 25m
   clean: 15m
