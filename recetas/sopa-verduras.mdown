@@ -1,9 +1,9 @@
 ---
-tags: [sopa, caliente, vegetarianizable, ]
+tags: [sopa, caliente, vegetarianizable]
 platos: 4
 tiempo:
-  prep: 0
-  cook: 0
+  prep: 30
+  cook: 20
   clean: 0
   store: 0
 sources:
@@ -17,8 +17,8 @@ Como la hace mi mamá
 ## Necesito
 
 - 100u de ingrediente
-- 1 papa
-- 1 calabaza
+- 1/2 papa
+- 1/2 calabaza
 - 100g de ejote
 - 50g de elote
 - 1/2 cebolla
@@ -31,7 +31,12 @@ Como la hace mi mamá
 
 # Preparo
 
+> Claro que quieres partir mientras sofries, pero se te va a quemar el poro, y el poro es lo que hace 
+> que esta sopa sea esta sopa. Pica todo antes, no te hagas pendejo.
+
 > Te advierto que si te estás muriendo de hambre y le entras en chinga te vas a quemar el hocico.
+
+> Si vamos a ponerle papa, nos va a tomar tiempo adicional en cocerla y picarla.
 
 
 - Pico toda la verdura

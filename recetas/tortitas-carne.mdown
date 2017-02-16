@@ -1,0 +1,49 @@
+---
+tags: [salado, caliente]
+platos: 2
+tiempo:
+  prep: 25m
+  cook: 35m
+  clean: 20m
+  store: 5d
+sources:
+  - mamá
+---
+
+# Tortitas de carne
+
+Con arroz rojo, aguacate y queso de chiapas quedan de lujo.
+
+## Necesito
+
+- 500g falda de res
+- 4 jitomates || 6 tomatillos
+- 1/2 cebolla blanca
+- 2 dientes de ajo
+- 2 chiles chipotle / 3 chiles verdes
+- 1 cda de orégano
+- 1 cda de tomillo
+
+# Preparo
+
+> Deshebrar carne es de hueva, hazlo antes de hervir la salsa. Recuerda retirar la grasa antes de cocer!
+
+> Probablemente te va a faltar huevo batido
+
+> Yo que tu veía en los youtubes la secuencia de harina, huevo y fritura
+
+> Una mano seca, una mano puerca.
+
+
+- Pongo a hervir 20m la carne en suficiente agua para a penas cubrir la superficie, agrego tomillo, sal, pimienta.
+- Deshebro la carne
+- Licúo jitomates, ajo, cebolla, chile y un poco del caldo de carne.
+- Hiervo sazonando con sal y orégano.
+- Armo bolas de carne, las paso por harina, luego huevo.
+- Frio y seco sobre toalla de papel.
+- Agrego tortas a la salsa a fuego bajo
+
+# Sirvo
+
+- Coloco las tortitas y baño en salsa.
+
