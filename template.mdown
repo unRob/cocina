@@ -1,0 +1,30 @@
+---
+tags: []
+platos: 
+tiempo:
+  prep: 
+  cook: 
+  clean: 
+  store: 
+sources:
+  - 
+---
+
+# {TITLE}
+
+{SUMMARY}
+
+## Necesito
+
+- 100u de ingrediente
+
+# Preparo
+
+> {WARNING}
+
+
+- {PREP}
+
+# Sirvo
+
+- Con mucho cuidado, que siempre olvido que las cosas que recien salen del horno están muy calientes
