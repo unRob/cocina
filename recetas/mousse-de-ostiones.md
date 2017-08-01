@@ -1,0 +1,1 @@
+Un sobre de grenetina Knox1 lata de ostiones1 queso Philadelphia1 copita de vino blanco1 lata de jugo de carneHidratas la grenetina con un poco del jugo de carne Licúas todo. Mientras tanto mojas el molde y lo metes al congelador. Pones la grenetina disuelta. (La calientas 10 seg en el micro)Licúas de nuevo todo. Lo pones en el molde y refrigeras
